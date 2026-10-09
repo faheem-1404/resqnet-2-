@@ -1,0 +1,5 @@
+from antigravity ai 
+
+models/advanced_inference.py --source drone_flood_analysis.mp4 will ahve a live vedio of flood analysis using cv drone capture.
+
+resqnet frontend & backend very imp this is samrt stimulation of the shortest path.
